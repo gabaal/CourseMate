@@ -5,11 +5,11 @@ import Hero from "./_components/Hero";
 
 export default function Home() {
   return (
-    <div>
-      {/* HEADER */}
-      <Header />
-      {/* Hero Section */}
-      <Hero />
-    </div>
+   <div>
+     {/* HEADER  */}
+      <Header/>
+     {/* Hero Section  */}
+      <Hero/>
+   </div>
   );
 }
